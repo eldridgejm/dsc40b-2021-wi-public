@@ -4,7 +4,8 @@
             "schema": {
                 "required_artifacts": [
                     "slides-eldridge.pdf",
-                    "slides-wang.pdf"
+                    "slides-wang.pdf",
+                    "slides-wang.pptx"
                 ],
                 "optional_artifacts": [],
                 "metadata_schema": {
@@ -22,7 +23,7 @@
                     },
                     "wang-recording": {
                         "type": "string",
-                        "required": false
+                        "nullable": true
                     },
                     "eldridge-videos": {
                         "type": "list",
@@ -97,17 +98,7 @@
                 "allow_unspecified_artifacts": false,
                 "is_ordered": false
             },
-            "publications": {
-                "01-time_complexity": {
-                    "metadata": {
-                        "number": 1,
-                        "topic": "Time Complexity Analysis",
-                        "released": "2021-01-05 23:59:00",
-                        "due": "2021-01-12 23:59:00"
-                    },
-                    "artifacts": {}
-                }
-            }
+            "publications": {}
         },
         "default": {
             "schema": {
