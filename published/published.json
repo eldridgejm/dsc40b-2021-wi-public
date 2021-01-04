@@ -50,23 +50,13 @@
                         "number": 1,
                         "topic": "Introduction",
                         "reading": "Section 1.6",
-                        "eldridge-videos": [
-                            {
-                                "title": "Welcome and Syllabus",
-                                "url": "https://youtu.be/HhCEQGW4n2I"
-                            },
-                            {
-                                "title": "Algorithms",
-                                "url": "https://youtu.be/JPQzCPAaJL4"
-                            },
-                            {
-                                "title": "Brute Force Algorithms (Clustering)",
-                                "url": "https://youtu.be/Jqk5V9UB7A8"
-                            }
-                        ],
+                        "eldridge-videos": [],
                         "wang-recording": null
                     },
                     "artifacts": {
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/01-intro/slides-eldridge.pdf"
+                        },
                         "slides-wang.pdf": {
                             "path": "lectures/01-intro/slides-wang.pdf"
                         },
