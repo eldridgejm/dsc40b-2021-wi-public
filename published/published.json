@@ -98,7 +98,17 @@
                 "allow_unspecified_artifacts": false,
                 "is_ordered": false
             },
-            "publications": {}
+            "publications": {
+                "01-time_complexity": {
+                    "metadata": {
+                        "number": 1,
+                        "topic": "Time Complexity Analysis",
+                        "due": "2021-01-12 23:59:00",
+                        "released": "2021-01-05 23:59:00"
+                    },
+                    "artifacts": {}
+                }
+            }
         },
         "default": {
             "schema": {
