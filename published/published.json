@@ -139,7 +139,7 @@
                     }
                 },
                 "allow_unspecified_artifacts": false,
-                "is_ordered": false
+                "is_ordered": true
             },
             "publications": {
                 "01-time_complexity": {
