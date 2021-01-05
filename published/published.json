@@ -128,7 +128,14 @@
                         "due": "2021-01-12 23:59:00",
                         "released": "2021-01-05 00:00:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/01-time_complexity/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/01-time_complexity/template.zip"
+                        }
+                    }
                 }
             }
         },
