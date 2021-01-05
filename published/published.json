@@ -50,7 +50,28 @@
                         "number": 1,
                         "topic": "Introduction",
                         "reading": "Section 1.6",
-                        "eldridge-videos": [],
+                        "eldridge-videos": [
+                            {
+                                "title": "The Syllabus",
+                                "url": "https://youtu.be/0VI7L7iwp8w"
+                            },
+                            {
+                                "title": "Introduction",
+                                "url": "https://youtu.be/g9YTOgkBfi0"
+                            },
+                            {
+                                "title": "Example: Brute Force Clustering",
+                                "url": "https://youtu.be/maG7rfv0Ugc"
+                            },
+                            {
+                                "title": "Measuring Efficiency of Algorithms",
+                                "url": "https://youtu.be/iiTLvdMHm_o"
+                            },
+                            {
+                                "title": "Time Complexity Analysis",
+                                "url": "https://youtu.be/9mCZfbpQqHg"
+                            }
+                        ],
                         "wang-recording": null
                     },
                     "artifacts": {
