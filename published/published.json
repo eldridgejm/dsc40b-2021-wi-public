@@ -96,6 +96,9 @@
                         "wang-recording": null
                     },
                     "artifacts": {
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/02-time_complexity-pt_I/slides-eldridge.pdf"
+                        },
                         "slides-wang.pdf": {
                             "path": "lectures/02-time_complexity-pt_I/slides-wang.pdf"
                         },
