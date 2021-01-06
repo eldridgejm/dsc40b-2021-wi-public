@@ -92,28 +92,7 @@
                         "number": 2,
                         "topic": "Asymptotic Time Complexity, pt. I",
                         "reading": "Section 1.1 - 1.4",
-                        "eldridge-videos": [
-                            {
-                                "title": "Introduction and Announcements",
-                                "url": "https://youtu.be/sgM8nmN_keY"
-                            },
-                            {
-                                "title": "The Disadvantages of Timing",
-                                "url": "https://youtu.be/lG9wqjI0MPI"
-                            },
-                            {
-                                "title": "Counting Operations",
-                                "url": "https://youtu.be/vNmOkN99qMI"
-                            },
-                            {
-                                "title": "Nested Loops",
-                                "url": "https://youtu.be/g3IVZM7FWTM"
-                            },
-                            {
-                                "title": "Linear and Quadratic Growth",
-                                "url": "https://youtu.be/KfdLCOYpdVM"
-                            }
-                        ],
+                        "eldridge-videos": [],
                         "wang-recording": null
                     },
                     "artifacts": {
