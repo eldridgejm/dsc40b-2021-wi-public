@@ -92,7 +92,32 @@
                         "number": 2,
                         "topic": "Asymptotic Time Complexity, pt. I",
                         "reading": "Section 1.1 - 1.4",
-                        "eldridge-videos": [],
+                        "eldridge-videos": [
+                            {
+                                "title": "News",
+                                "url": "https://youtu.be/5uHU0ySoNN8"
+                            },
+                            {
+                                "title": "Nested Loops",
+                                "url": "https://youtu.be/eUrLJ3Omjdo"
+                            },
+                            {
+                                "title": "Linear and Quadratic",
+                                "url": "https://youtu.be/cQac620u0jU"
+                            },
+                            {
+                                "title": "Big Theta Notation",
+                                "url": "https://youtu.be/Bck5PHtcvs8"
+                            },
+                            {
+                                "title": "Big O and Big Omega",
+                                "url": "https://youtu.be/SPFMl6GEjwI"
+                            },
+                            {
+                                "title": "Limit Definitions",
+                                "url": "https://youtu.be/y_O-Z2XpRmg"
+                            }
+                        ],
                         "wang-recording": null
                     },
                     "artifacts": {
