@@ -188,6 +188,9 @@
                     "artifacts": {
                         "discussion.pdf": {
                             "path": "discussions/01-time_complexity/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/01-time_complexity/solution.pdf"
                         }
                     }
                 }
