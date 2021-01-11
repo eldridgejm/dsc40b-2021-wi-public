@@ -148,6 +148,24 @@
                             "path": "lectures/02-time_complexity-pt_I/slides-wang.pptx"
                         }
                     }
+                },
+                "03-time_complexity-pt_II": {
+                    "metadata": {
+                        "date": "2021-01-12",
+                        "number": 2,
+                        "topic": "Asymptotic Time Complexity, pt. II",
+                        "reading": "Section 1.5",
+                        "eldridge-videos": [],
+                        "wang-recording": null
+                    },
+                    "artifacts": {
+                        "slides-wang.pdf": {
+                            "path": "lectures/03-time_complexity-pt_II/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/03-time_complexity-pt_II/slides-wang.pptx"
+                        }
+                    }
                 }
             }
         },
