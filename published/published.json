@@ -279,6 +279,22 @@
                             "path": "homeworks/01-time_complexity/template.zip"
                         }
                     }
+                },
+                "02-asymptotic": {
+                    "metadata": {
+                        "number": 2,
+                        "topic": "Time Complexity Analysis",
+                        "due": "2021-01-19 23:59:00",
+                        "released": "2021-01-12 00:00:00"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/02-asymptotic/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/02-asymptotic/template.zip"
+                        }
+                    }
                 }
             }
         },
