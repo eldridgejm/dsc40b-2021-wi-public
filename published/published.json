@@ -155,7 +155,28 @@
                         "number": 2,
                         "topic": "Asymptotic Time Complexity, pt. II",
                         "reading": "Section 1.5",
-                        "eldridge-videos": [],
+                        "eldridge-videos": [
+                            {
+                                "title": "Properties of Asymptotic Notation",
+                                "url": "https://youtu.be/iB7IjBzBkgs"
+                            },
+                            {
+                                "title": "Notation Practicalities",
+                                "url": "https://youtu.be/vdSep6AOWL0"
+                            },
+                            {
+                                "title": "The Movie Problem",
+                                "url": "https://youtu.be/JNV8FeifyeU"
+                            },
+                            {
+                                "title": "Best and Worst Case Complexity",
+                                "url": "https://youtu.be/EVhc3RnBOuI"
+                            },
+                            {
+                                "title": "About the Notation",
+                                "url": "https://youtu.be/YrHwJhr4vF8"
+                            }
+                        ],
                         "wang-recording": null
                     },
                     "artifacts": {
