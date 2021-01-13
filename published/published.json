@@ -190,6 +190,17 @@
                             "path": "lectures/03-time_complexity-pt_II/slides-wang.pptx"
                         }
                     }
+                },
+                "04-expected_time": {
+                    "metadata": {
+                        "date": "2021-01-14",
+                        "number": 4,
+                        "topic": "Asymptotic Time Complexity, pt. II",
+                        "reading": "Section 1.5",
+                        "eldridge-videos": [],
+                        "wang-recording": null
+                    },
+                    "artifacts": {}
                 }
             }
         },
