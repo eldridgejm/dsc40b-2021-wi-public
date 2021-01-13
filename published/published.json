@@ -246,6 +246,19 @@
                             "path": "discussions/01-time_complexity/solution.pdf"
                         }
                     }
+                },
+                "02-best_worst_time": {
+                    "metadata": {
+                        "number": 2,
+                        "topic": "Best and Worst Time Complexity",
+                        "date": "2021-01-14",
+                        "recording": null
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/02-best_worst_time/discussion.pdf"
+                        }
+                    }
                 }
             }
         },
