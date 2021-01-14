@@ -19,7 +19,8 @@
                         "type": "string"
                     },
                     "reading": {
-                        "type": "string"
+                        "type": "string",
+                        "nullable": true
                     },
                     "wang-recording": {
                         "type": "string",
@@ -195,12 +196,32 @@
                     "metadata": {
                         "date": "2021-01-14",
                         "number": 4,
-                        "topic": "Asymptotic Time Complexity, pt. II",
-                        "reading": "Section 1.5",
-                        "eldridge-videos": [],
+                        "topic": "Expected Time and Lower Bounds",
+                        "reading": null,
+                        "eldridge-videos": [
+                            {
+                                "title": "Average Case and Expected Time",
+                                "url": "https://youtu.be/T7A3UR7fi18"
+                            },
+                            {
+                                "title": "Average Case for the Movie Problem",
+                                "url": "https://youtu.be/CzDeoOanM-o"
+                            },
+                            {
+                                "title": "Theoretical Lower Bounds",
+                                "url": "https://youtu.be/Z0iaUjc67Vg"
+                            },
+                            {
+                                "title": "Matrix Multiplication",
+                                "url": "https://youtu.be/XkmFzgpufPQ"
+                            }
+                        ],
                         "wang-recording": null
                     },
                     "artifacts": {
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/04-expected_time/slides-eldridge.pdf"
+                        },
                         "slides-wang.pdf": {
                             "path": "lectures/04-expected_time/slides-wang.pdf"
                         },
