@@ -200,7 +200,14 @@
                         "eldridge-videos": [],
                         "wang-recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides-wang.pdf": {
+                            "path": "lectures/04-expected_time/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/04-expected_time/slides-wang.pptx"
+                        }
+                    }
                 }
             }
         },
