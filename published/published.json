@@ -239,7 +239,14 @@
                         "eldridge-videos": [],
                         "wang-recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides-wang.pdf": {
+                            "path": "lectures/05-binary_search-recurrences/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/05-binary_search-recurrences/slides-wang.pptx"
+                        }
+                    }
                 }
             }
         },
