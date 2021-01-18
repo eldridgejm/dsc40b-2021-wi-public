@@ -285,6 +285,9 @@
                     "artifacts": {
                         "discussion.pdf": {
                             "path": "discussions/02-best_worst_time/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/02-best_worst_time/solution.pdf"
                         }
                     }
                 }
