@@ -234,12 +234,36 @@
                     "metadata": {
                         "date": "2021-01-19",
                         "number": 5,
-                        "topic": "Asymptotic Time Complexity, pt. II",
-                        "reading": "Section 1.5",
-                        "eldridge-videos": [],
+                        "topic": "Recurrences and Binary Search",
+                        "reading": "Sections 2.4.1 and 2.2",
+                        "eldridge-videos": [
+                            {
+                                "title": "Querying a Database",
+                                "url": "https://youtu.be/G2oDXwK4p70"
+                            },
+                            {
+                                "title": "Binary Search",
+                                "url": "https://youtu.be/7gCOBMukWvs"
+                            },
+                            {
+                                "title": "Thinking Inductively",
+                                "url": "https://youtu.be/-WH1Pzx3qVI"
+                            },
+                            {
+                                "title": "Recurrence Relations",
+                                "url": "https://youtu.be/zG7KkNWPHOA"
+                            },
+                            {
+                                "title": "Recurrence for Binary Search",
+                                "url": "https://youtu.be/-JfndbtBDYw"
+                            }
+                        ],
                         "wang-recording": null
                     },
                     "artifacts": {
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/05-binary_search-recurrences/slides-eldridge.pdf"
+                        },
                         "slides-wang.pdf": {
                             "path": "lectures/05-binary_search-recurrences/slides-wang.pdf"
                         },
