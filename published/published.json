@@ -308,6 +308,15 @@
                             "path": "discussions/02-best_worst_time/solution.pdf"
                         }
                     }
+                },
+                "03-recursion_sorting": {
+                    "metadata": {
+                        "number": 3,
+                        "topic": "Recurrence Relations and Sorting",
+                        "date": "2021-01-21",
+                        "recording": null
+                    },
+                    "artifacts": {}
                 }
             }
         },
