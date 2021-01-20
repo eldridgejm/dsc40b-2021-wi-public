@@ -277,6 +277,27 @@
                             "path": "lectures/05-binary_search-recurrences/slides-wang.pptx"
                         }
                     }
+                },
+                "06-sorting": {
+                    "metadata": {
+                        "date": "2021-01-21",
+                        "number": 6,
+                        "topic": "Sorting",
+                        "reading": "Section 2.1 and 2.3",
+                        "eldridge-videos": [],
+                        "wang-recording": null
+                    },
+                    "artifacts": {
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/06-sorting/slides-eldridge.pdf"
+                        },
+                        "slides-wang.pdf": {
+                            "path": "lectures/06-sorting/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/06-sorting/slides-wang.pptx"
+                        }
+                    }
                 }
             }
         },
@@ -346,7 +367,11 @@
                         "date": "2021-01-21",
                         "recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/03-recursion_sorting/discussion.pdf"
+                        }
+                    }
                 }
             }
         },
@@ -418,7 +443,14 @@
                         "due": "2021-01-26 23:59:00",
                         "released": "2021-01-19 23:59:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/03-recurrences_sorting/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/03-recurrences_sorting/template.zip"
+                        }
+                    }
                 }
             }
         },
