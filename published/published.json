@@ -24,7 +24,13 @@
                     },
                     "wang-recording": {
                         "type": "string",
-                        "nullable": true
+                        "nullable": true,
+                        "required": false
+                    },
+                    "wang-videos": {
+                        "type": "string",
+                        "nullable": true,
+                        "required": false
                     },
                     "wang-supplementary": {
                         "nullable": true,
@@ -258,7 +264,7 @@
                                 "url": "https://youtu.be/-JfndbtBDYw"
                             }
                         ],
-                        "wang-recording": null
+                        "wang-videos": "<ol class=\"schedule-lecture-parts\">\n    <li>\n        <a href=\"https://youtu.be/Fm3kkV4E-aY\">\n            part A:  Binary search: motivation and recursive algorithm\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/bQOkWHJfy-A\">\n            part B: correctness of binary search algorithm\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/ho1mT_-f_5w\">\n          part C:  time complexity analysis of binary search, solving recurrences\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/7wpbL1tnsq8\">\n          Part D:  more examples of solving recurrences\n        </a>\n    </li>\n</ol>\n"
                     },
                     "artifacts": {
                         "slides-eldridge.pdf": {
@@ -404,6 +410,15 @@
                             "path": "homeworks/02-asymptotic/template.zip"
                         }
                     }
+                },
+                "03-recurrences_sorting": {
+                    "metadata": {
+                        "number": 3,
+                        "topic": "Binary Search, Recurrences, Sorting",
+                        "due": "2021-01-26 23:59:00",
+                        "released": "2021-01-19 23:59:00"
+                    },
+                    "artifacts": {}
                 }
             }
         },
