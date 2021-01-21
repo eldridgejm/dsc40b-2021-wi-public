@@ -284,8 +284,29 @@
                         "number": 6,
                         "topic": "Sorting",
                         "reading": "Section 2.1 and 2.3",
-                        "eldridge-videos": [],
-                        "wang-recording": null
+                        "eldridge-videos": [
+                            {
+                                "title": "Selection Sort and Loop Invariants",
+                                "url": "https://youtu.be/LGGSGyjIzdM"
+                            },
+                            {
+                                "title": "Mergesort",
+                                "url": "https://youtu.be/UxGRcwWAj2k"
+                            },
+                            {
+                                "title": "The Merge Operation",
+                                "url": "https://youtu.be/eGGMNrel2l0"
+                            },
+                            {
+                                "title": "Analyzing Mergesort",
+                                "url": "https://youtu.be/3oUE3eX1OqQ"
+                            },
+                            {
+                                "title": "Using Sorted Structure",
+                                "url": "https://youtu.be/Rapa5SjzPdM"
+                            }
+                        ],
+                        "wang-videos": null
                     },
                     "artifacts": {
                         "slides-eldridge.pdf": {
