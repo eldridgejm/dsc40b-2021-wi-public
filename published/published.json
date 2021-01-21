@@ -433,6 +433,9 @@
                         },
                         "template.zip": {
                             "path": "homeworks/02-asymptotic/template.zip"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/02-asymptotic/solution.pdf"
                         }
                     }
                 },
