@@ -306,7 +306,7 @@
                                 "url": "https://youtu.be/Rapa5SjzPdM"
                             }
                         ],
-                        "wang-videos": null
+                        "wang-videos": "<ol class=\"schedule-lecture-parts\">\n    <li>\n        <a href=\"https://youtu.be/ZQh2zrjqECg\">\n            part A:  Sorting: Selection-sort, and loop invariants\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/d3vWd3uSwvo\">\n            part B: A faster algorithm: MergeSort, and solving its recurrence\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/EYTRiIHjp_I\">\n          part C:  3-way MergeSort\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/ZfgGWwf0hWE\">\n          Part D:  The Movie problem revisited, and made faster! \n        </a>\n    </li>\n</ol>\n"
                     },
                     "artifacts": {
                         "slides-eldridge.pdf": {
