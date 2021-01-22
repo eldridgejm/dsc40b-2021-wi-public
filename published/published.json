@@ -391,6 +391,9 @@
                     "artifacts": {
                         "discussion.pdf": {
                             "path": "discussions/03-recursion_sorting/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/03-recursion_sorting/solution.pdf"
                         }
                     }
                 }
