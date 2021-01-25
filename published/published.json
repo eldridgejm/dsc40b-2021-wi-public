@@ -319,6 +319,24 @@
                             "path": "lectures/06-sorting/slides-wang.pptx"
                         }
                     }
+                },
+                "07-quickselect": {
+                    "metadata": {
+                        "date": "2021-01-26",
+                        "number": 7,
+                        "topic": "Asymptotic Time Complexity, pt. II",
+                        "reading": "Section 1.5",
+                        "eldridge-videos": [],
+                        "wang-recording": null
+                    },
+                    "artifacts": {
+                        "slides-wang.pdf": {
+                            "path": "lectures/07-quickselect/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/07-quickselect/slides-wang.pptx"
+                        }
+                    }
                 }
             }
         },
