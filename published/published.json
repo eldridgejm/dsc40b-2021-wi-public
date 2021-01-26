@@ -348,7 +348,7 @@
                                 "url": "https://youtu.be/CSc9ozU2vhs"
                             }
                         ],
-                        "wang-recording": null
+                        "wang-videos": "<ol class=\"schedule-lecture-parts\">\n    <li>\n        <a href=\"https://youtu.be/afQiiIbZNwE\">\n            part A:  Order statistics, and idea behind QuickSelect algorithm\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/b_sEMpKBXqE\">\n            part B: Partition procedure\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/BcOOcUslo14\">\n          part C:  Time complexity of QuickSelect, Randomized QuickSelect (and expected time), QuickSort\n        </a>\n    </li>\n</ol>\n"
                     },
                     "artifacts": {
                         "slides-eldridge.pdf": {
