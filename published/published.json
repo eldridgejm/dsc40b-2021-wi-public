@@ -481,7 +481,7 @@
                         }
                     }
                 },
-                "03-recurrences_sorting": {
+                "03-recurrences-sorting": {
                     "metadata": {
                         "number": 3,
                         "topic": "Binary Search, Recurrences, Sorting",
@@ -490,12 +490,21 @@
                     },
                     "artifacts": {
                         "homework.pdf": {
-                            "path": "homeworks/03-recurrences_sorting/homework.pdf"
+                            "path": "homeworks/03-recurrences-sorting/homework.pdf"
                         },
                         "template.zip": {
-                            "path": "homeworks/03-recurrences_sorting/template.zip"
+                            "path": "homeworks/03-recurrences-sorting/template.zip"
                         }
                     }
+                },
+                "04-quickselect-bst": {
+                    "metadata": {
+                        "number": 4,
+                        "topic": "Quickselect and BSTs",
+                        "due": "2021-02-02 23:59:00",
+                        "released": "2021-01-26 23:59:00"
+                    },
+                    "artifacts": {}
                 }
             }
         },
