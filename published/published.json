@@ -326,7 +326,28 @@
                         "number": 7,
                         "reading": null,
                         "topic": "Quickselect",
-                        "eldridge-videos": [],
+                        "eldridge-videos": [
+                            {
+                                "title": "Order Statistics",
+                                "url": "https://youtu.be/qegGSWj-QgI"
+                            },
+                            {
+                                "title": "Quickselect",
+                                "url": "https://youtu.be/bJeuyV8saao"
+                            },
+                            {
+                                "title": "Partition",
+                                "url": "https://youtu.be/lfEwNCDrsNU"
+                            },
+                            {
+                                "title": "Analysis of Quickselect",
+                                "url": "https://youtu.be/IYY5NQPLjK4"
+                            },
+                            {
+                                "title": "Quicksort",
+                                "url": "https://youtu.be/CSc9ozU2vhs"
+                            }
+                        ],
                         "wang-recording": null
                     },
                     "artifacts": {
