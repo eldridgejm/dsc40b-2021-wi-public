@@ -324,12 +324,15 @@
                     "metadata": {
                         "date": "2021-01-26",
                         "number": 7,
-                        "topic": "Asymptotic Time Complexity, pt. II",
-                        "reading": "Section 1.5",
+                        "reading": null,
+                        "topic": "Quickselect",
                         "eldridge-videos": [],
                         "wang-recording": null
                     },
                     "artifacts": {
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/07-quickselect/slides-eldridge.pdf"
+                        },
                         "slides-wang.pdf": {
                             "path": "lectures/07-quickselect/slides-wang.pdf"
                         },
