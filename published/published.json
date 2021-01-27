@@ -361,6 +361,24 @@
                             "path": "lectures/07-quickselect/slides-wang.pptx"
                         }
                     }
+                },
+                "08-bst": {
+                    "metadata": {
+                        "date": "2021-01-28",
+                        "number": 8,
+                        "topic": "Asymptotic Time Complexity, pt. II",
+                        "reading": "Section 1.5",
+                        "eldridge-videos": [],
+                        "wang-recording": null
+                    },
+                    "artifacts": {
+                        "slides-wang.pdf": {
+                            "path": "lectures/08-bst/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/08-bst/slides-wang.pptx"
+                        }
+                    }
                 }
             }
         },
@@ -528,7 +546,14 @@
                         "due": "2021-02-02 23:59:00",
                         "released": "2021-01-26 23:59:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/04-quickselect-bst/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/04-quickselect-bst/template.zip"
+                        }
+                    }
                 }
             }
         },
