@@ -368,7 +368,28 @@
                         "number": 8,
                         "topic": "Binary Search Trees",
                         "reading": null,
-                        "eldridge-videos": [],
+                        "eldridge-videos": [
+                            {
+                                "title": "Dynamic Sets, Many Queries",
+                                "url": "https://youtu.be/VTh_RNqAgXo"
+                            },
+                            {
+                                "title": "Binary Search Trees",
+                                "url": "https://youtu.be/g0SXF4qD4n0"
+                            },
+                            {
+                                "title": "Querying and Insertion in BSTs",
+                                "url": "https://youtu.be/1lmPL4d9Rbs"
+                            },
+                            {
+                                "title": "Balanced and Unbalanced BSTs",
+                                "url": "https://youtu.be/s_AH7u-9SKk"
+                            },
+                            {
+                                "title": "Augmenting BSTs",
+                                "url": "https://youtu.be/nh-J6gqCTqM"
+                            }
+                        ],
                         "wang-recording": null
                     },
                     "artifacts": {
