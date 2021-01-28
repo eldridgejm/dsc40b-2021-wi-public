@@ -552,6 +552,9 @@
                         },
                         "template.zip": {
                             "path": "homeworks/03-recurrences-sorting/template.zip"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/03-recurrences-sorting/solution.pdf"
                         }
                     }
                 },
