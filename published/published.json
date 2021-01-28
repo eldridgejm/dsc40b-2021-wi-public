@@ -366,12 +366,15 @@
                     "metadata": {
                         "date": "2021-01-28",
                         "number": 8,
-                        "topic": "Asymptotic Time Complexity, pt. II",
-                        "reading": "Section 1.5",
+                        "topic": "Binary Search Trees",
+                        "reading": null,
                         "eldridge-videos": [],
                         "wang-recording": null
                     },
                     "artifacts": {
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/08-bst/slides-eldridge.pdf"
+                        },
                         "slides-wang.pdf": {
                             "path": "lectures/08-bst/slides-wang.pdf"
                         },
@@ -454,6 +457,19 @@
                         },
                         "solution.pdf": {
                             "path": "discussions/03-recursion_sorting/solution.pdf"
+                        }
+                    }
+                },
+                "04-quicksort_hashing": {
+                    "metadata": {
+                        "number": 4,
+                        "topic": "Quicksort, Quickselect, and BSTs",
+                        "date": "2021-01-28",
+                        "recording": null
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/04-quicksort_hashing/discussion.pdf"
                         }
                     }
                 }
