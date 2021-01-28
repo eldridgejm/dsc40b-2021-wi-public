@@ -496,6 +496,41 @@
                 }
             }
         },
+        "supplementary/exam_reviews": {
+            "schema": {
+                "required_artifacts": [
+                    "discussion.pdf",
+                    "solution.pdf"
+                ],
+                "optional_artifacts": [],
+                "metadata_schema": {
+                    "exam": {
+                        "type": "string"
+                    },
+                    "date": {
+                        "type": "smartdate"
+                    }
+                },
+                "allow_unspecified_artifacts": false,
+                "is_ordered": false
+            },
+            "publications": {
+                "midterm_01": {
+                    "metadata": {
+                        "exam": "Midterm 01",
+                        "date": "2021-01-28"
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "supplementary/exam_reviews/midterm_01/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "supplementary/exam_reviews/midterm_01/solution.pdf"
+                        }
+                    }
+                }
+            }
+        },
         "homeworks": {
             "schema": {
                 "required_artifacts": [
