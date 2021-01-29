@@ -491,6 +491,9 @@
                     "artifacts": {
                         "discussion.pdf": {
                             "path": "discussions/04-quicksort_hashing/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/04-quicksort_hashing/solution.pdf"
                         }
                     }
                 }
