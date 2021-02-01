@@ -403,6 +403,30 @@
                             "path": "lectures/08-bst/slides-wang.pptx"
                         }
                     }
+                },
+                "09-hashing": {
+                    "metadata": {
+                        "date": "2021-02-02",
+                        "number": 9,
+                        "topic": "Hashing",
+                        "reading": null,
+                        "eldridge-videos": [
+                            {
+                                "title": "Hashing and Hash Functions",
+                                "url": "https://youtu.be/oJyEgPsygzs"
+                            },
+                            {
+                                "title": "Hash Tables",
+                                "url": "https://youtu.be/PZIAJyvlqpQ"
+                            },
+                            {
+                                "title": "Faster Algorithms with Hashing",
+                                "url": "https://youtu.be/C1tDnBf18c0"
+                            }
+                        ],
+                        "wang-recording": null
+                    },
+                    "artifacts": {}
                 }
             }
         },
