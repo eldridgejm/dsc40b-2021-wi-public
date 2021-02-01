@@ -426,7 +426,17 @@
                         ],
                         "wang-recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/09-hashing/slides-eldridge.pdf"
+                        },
+                        "slides-wang.pdf": {
+                            "path": "lectures/09-hashing/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/09-hashing/slides-wang.pptx"
+                        }
+                    }
                 }
             }
         },
