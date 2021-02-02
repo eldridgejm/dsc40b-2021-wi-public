@@ -424,7 +424,7 @@
                                 "url": "https://youtu.be/C1tDnBf18c0"
                             }
                         ],
-                        "wang-recording": null
+                        "wang-videos": "<ol class=\"schedule-lecture-parts\">\n    <li>\n        <a href=\"https://youtu.be/kEJPymDkiuc\">\n            part A:  Hashing, motivation and hash functions\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/au1ofLSpriU\">\n            part B: Hash tables\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/eQgm56iMt8A\">\n          part C: Use Hash table for faster algorithms, and downside of Hash tables\n        </a>\n    </li>\n</ol>\n"
                     },
                     "artifacts": {
                         "slides-eldridge.pdf": {
