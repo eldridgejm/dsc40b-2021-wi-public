@@ -390,7 +390,7 @@
                                 "url": "https://youtu.be/nh-J6gqCTqM"
                             }
                         ],
-                        "wang-videos": "<ol class=\"schedule-lecture-parts\">\n    <li>\n        <a href=\"https://youtu.be/rP4ia3sqJvc\">\n            part A:  Binary search tree (BST): motivation and properties\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/DYGoSoJfF6E\">\n            part B: Operations in BST: search, min/max, insert...\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/AKg6yZDSUwg\">\n          part C:  Balanced BST\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/8mQM3ea8WuM\">\n          Part D:  Select operation in BST, augmenting data structures\n        </a>\n    </li>\n</ol>\n"
+                        "wang-videos": "<ol class=\"schedule-lecture-parts\">\n    <li>\n        <a href=\"https://youtu.be/0dWEzr5cHdM\">\n            part A:  Binary search tree (BST): motivation and properties\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/DYGoSoJfF6E\">\n            part B: Operations in BST: search, min/max, insert...\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/AKg6yZDSUwg\">\n          part C:  Balanced BST\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/8mQM3ea8WuM\">\n          Part D:  Select operation in BST, augmenting data structures\n        </a>\n    </li>\n</ol>\n"
                     },
                     "artifacts": {
                         "slides-eldridge.pdf": {
