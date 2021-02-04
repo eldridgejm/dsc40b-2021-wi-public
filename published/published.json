@@ -670,6 +670,9 @@
                         },
                         "template.zip": {
                             "path": "homeworks/04-quickselect-bst/template.zip"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/04-quickselect-bst/solution.pdf"
                         }
                     }
                 },
@@ -680,7 +683,14 @@
                         "due": "2021-02-10 23:59:00",
                         "released": "2021-02-03 23:59:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/05-hashing/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/05-hashing/template.zip"
+                        }
+                    }
                 }
             }
         },
