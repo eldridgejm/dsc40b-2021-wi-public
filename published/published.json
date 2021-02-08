@@ -450,6 +450,12 @@
                     "artifacts": {
                         "slides-eldridge.pdf": {
                             "path": "lectures/10-graph_theory/slides-eldridge.pdf"
+                        },
+                        "slides-wang.pdf": {
+                            "path": "lectures/10-graph_theory/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/10-graph_theory/slides-wang.pptx"
                         }
                     }
                 }
