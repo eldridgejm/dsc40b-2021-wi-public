@@ -437,6 +437,21 @@
                             "path": "lectures/09-hashing/slides-wang.pptx"
                         }
                     }
+                },
+                "10-graph_theory": {
+                    "metadata": {
+                        "date": "2021-02-09",
+                        "number": 10,
+                        "topic": "Graph Theory",
+                        "reading": "Section 3.1 and 3.2",
+                        "eldridge-videos": [],
+                        "wang-videos": null
+                    },
+                    "artifacts": {
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/10-graph_theory/slides-eldridge.pdf"
+                        }
+                    }
                 }
             }
         },
