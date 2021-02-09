@@ -551,6 +551,15 @@
                             "path": "discussions/04-quicksort_hashing/solution.pdf"
                         }
                     }
+                },
+                "06-graphs_bfs": {
+                    "metadata": {
+                        "number": 6,
+                        "topic": "Graphs and BFS",
+                        "date": "2021-02-11",
+                        "recording": null
+                    },
+                    "artifacts": {}
                 }
             }
         },
