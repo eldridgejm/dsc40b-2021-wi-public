@@ -444,7 +444,32 @@
                         "number": 10,
                         "topic": "Graph Theory",
                         "reading": "Section 3.1 and 3.2",
-                        "eldridge-videos": [],
+                        "eldridge-videos": [
+                            {
+                                "title": "Graph Theory",
+                                "url": "https://youtu.be/d_AZYsbmCIs"
+                            },
+                            {
+                                "title": "Paths",
+                                "url": "https://youtu.be/znNdOg-pUgE"
+                            },
+                            {
+                                "title": "Connected Components",
+                                "url": "https://youtu.be/jTlIfrzDtdU"
+                            },
+                            {
+                                "title": "Adjacency Matrices",
+                                "url": "https://youtu.be/qKsw3em8ZGw"
+                            },
+                            {
+                                "title": "Adjacency Lists",
+                                "url": "https://youtu.be/BpOoa5W-z4k"
+                            },
+                            {
+                                "title": "Dictionary of Sets",
+                                "url": "https://youtu.be/VdJ5cfsKIYk"
+                            }
+                        ],
                         "wang-videos": null
                     },
                     "artifacts": {
