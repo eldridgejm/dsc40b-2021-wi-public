@@ -470,7 +470,7 @@
                                 "url": "https://youtu.be/VdJ5cfsKIYk"
                             }
                         ],
-                        "wang-videos": null
+                        "wang-videos": "<ol class=\"schedule-lecture-parts\">\n    <li>\n        <a href=\"https://youtu.be/y6YQCMs67Cs\">\n            part A:  Graphs: undirected and directed, motivations\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/OoFKu9NnqHE\">\n            part B: Basics about graphs: degrees, paths, connected components\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/0KTlWJXzpKM\">\n          part C: Graph representations: Ajacency matrix, Ajacency list, dictionary of sets\n        </a>\n    </li>\n</ol>\n"
                     },
                     "artifacts": {
                         "slides-eldridge.pdf": {
