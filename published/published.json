@@ -483,6 +483,27 @@
                             "path": "lectures/10-graph_theory/slides-wang.pptx"
                         }
                     }
+                },
+                "11-bfs-pt_I": {
+                    "metadata": {
+                        "date": "2021-02-11",
+                        "number": 11,
+                        "topic": "Breadth First Search",
+                        "reading": "Section 3.3",
+                        "eldridge-videos": [],
+                        "wang-videos": null
+                    },
+                    "artifacts": {
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/11-bfs-pt_I/slides-eldridge.pdf"
+                        },
+                        "slides-wang.pdf": {
+                            "path": "lectures/11-bfs-pt_I/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/11-bfs-pt_I/slides-wang.pptx"
+                        }
+                    }
                 }
             }
         },
@@ -584,7 +605,11 @@
                         "date": "2021-02-11",
                         "recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/06-graphs_bfs/discussion.pdf"
+                        }
+                    }
                 }
             }
         },
