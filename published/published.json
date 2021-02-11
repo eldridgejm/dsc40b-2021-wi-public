@@ -490,7 +490,16 @@
                         "number": 11,
                         "topic": "Breadth First Search",
                         "reading": "Section 3.3",
-                        "eldridge-videos": [],
+                        "eldridge-videos": [
+                            {
+                                "title": "Breadth-First Search",
+                                "url": "https://youtu.be/_YyTpF4zbDY"
+                            },
+                            {
+                                "title": "Time Complexity of BFS",
+                                "url": "https://youtu.be/5Pax_XleVIs"
+                            }
+                        ],
                         "wang-videos": null
                     },
                     "artifacts": {
