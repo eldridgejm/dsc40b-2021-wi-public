@@ -500,7 +500,7 @@
                                 "url": "https://youtu.be/5Pax_XleVIs"
                             }
                         ],
-                        "wang-videos": null
+                        "wang-videos": "<ol class=\"schedule-lecture-parts\">\n    <li>\n        <a href=\"https://youtu.be/JC_anFxr88w\">\n            part A:  Graphs search strategy: Breadth-first search(BFS), the algorithm\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/aiwmeDkc3JY\">\n            part B: Full_BFS algorithm, and complexity analysis\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/JC_anFxr88w\">\n          part C: Shortest path in unweighted graphs: definition and properties\n        </a>\n    </li>\n</ol>\n"
                     },
                     "artifacts": {
                         "slides-eldridge.pdf": {
