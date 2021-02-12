@@ -617,6 +617,9 @@
                     "artifacts": {
                         "discussion.pdf": {
                             "path": "discussions/06-graphs_bfs/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/06-graphs_bfs/solution.pdf"
                         }
                     }
                 }
@@ -778,6 +781,9 @@
                         },
                         "template.zip": {
                             "path": "homeworks/05-hashing/template.zip"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/05-hashing/solution.pdf"
                         }
                     }
                 },
