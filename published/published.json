@@ -513,6 +513,24 @@
                             "path": "lectures/11-bfs-pt_I/slides-wang.pptx"
                         }
                     }
+                },
+                "12-bfs-pt_II": {
+                    "metadata": {
+                        "date": "2021-02-16",
+                        "number": 12,
+                        "topic": "Asymptotic Time Complexity, pt. II",
+                        "reading": "Section 1.5",
+                        "eldridge-videos": [],
+                        "wang-videos": null
+                    },
+                    "artifacts": {
+                        "slides-wang.pdf": {
+                            "path": "lectures/12-bfs-pt_II/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/12-bfs-pt_II/slides-wang.pptx"
+                        }
+                    }
                 }
             }
         },
