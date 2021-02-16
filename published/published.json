@@ -520,7 +520,20 @@
                         "number": 12,
                         "topic": "BFS for Shortest Paths",
                         "reading": "Section 3.3",
-                        "eldridge-videos": [],
+                        "eldridge-videos": [
+                            {
+                                "title": "Shortest Paths",
+                                "url": "https://youtu.be/0HAHrXP0t2M"
+                            },
+                            {
+                                "title": "Finding Shortest Paths with BFS",
+                                "url": "https://youtu.be/nX3AjUJopWE"
+                            },
+                            {
+                                "title": "BFS Search Trees",
+                                "url": "https://youtu.be/vtx6RPwGnlc"
+                            }
+                        ],
                         "wang-videos": null
                     },
                     "artifacts": {
