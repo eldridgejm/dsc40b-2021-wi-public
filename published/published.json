@@ -518,12 +518,15 @@
                     "metadata": {
                         "date": "2021-02-16",
                         "number": 12,
-                        "topic": "Asymptotic Time Complexity, pt. II",
-                        "reading": "Section 1.5",
+                        "topic": "BFS for Shortest Paths",
+                        "reading": "Section 3.3",
                         "eldridge-videos": [],
                         "wang-videos": null
                     },
                     "artifacts": {
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/12-bfs-pt_II/slides-eldridge.pdf"
+                        },
                         "slides-wang.pdf": {
                             "path": "lectures/12-bfs-pt_II/slides-wang.pdf"
                         },
