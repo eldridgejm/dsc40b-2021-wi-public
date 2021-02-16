@@ -534,7 +534,7 @@
                                 "url": "https://youtu.be/vtx6RPwGnlc"
                             }
                         ],
-                        "wang-videos": null
+                        "wang-videos": "<ol class=\"schedule-lecture-parts\">\n    <li>\n        <a href=\"https://youtu.be/xfZ8mu7NbXc\">\n            part A:  Using BFS for computing shortest path distances, and recovering shortest paths\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/yWo6-4wtOjI\">\n            part B: more about BFS trees and how they encode shortest paths\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/QgzeOz1ifu0\">\n          part C: Introduction to the DFS (depth-first-search) algorithm\n        </a>\n    </li>\n</ol>\n"
                     },
                     "artifacts": {
                         "slides-eldridge.pdf": {
