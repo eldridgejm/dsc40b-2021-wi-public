@@ -547,113 +547,38 @@
                             "path": "lectures/12-bfs-pt_II/slides-wang.pptx"
                         }
                     }
-                }
-            }
-        },
-        "discussions": {
-            "schema": {
-                "required_artifacts": [
-                    "discussion.pdf",
-                    "solution.pdf"
-                ],
-                "optional_artifacts": [],
-                "metadata_schema": {
-                    "number": {
-                        "type": "integer"
-                    },
-                    "topic": {
-                        "type": "string"
-                    },
-                    "date": {
-                        "type": "smartdate"
-                    },
-                    "recording": {
-                        "type": "string",
-                        "required": false,
-                        "nullable": true
-                    }
                 },
-                "allow_unspecified_artifacts": false,
-                "is_ordered": false
-            },
-            "publications": {
-                "01-time_complexity": {
+                "13-dfs": {
                     "metadata": {
-                        "number": 1,
-                        "topic": "Time Complexity Analysis",
-                        "date": "2021-01-07",
-                        "recording": "https://ucsd.zoom.us/rec/share/LLsxIlkvf5uiqbeUJOKmP6NwcCkmXZi2ke3brfgF9kJaGbRf3qpPl5oi9cnHtvPu.c139ypuUEn3MAuyn?startTime=1610067675000"
+                        "date": "2021-02-18",
+                        "number": 13,
+                        "topic": "Depth-First Search",
+                        "reading": "Section 3.4",
+                        "eldridge-videos": [
+                            {
+                                "title": "Depth First Search",
+                                "url": "https://youtu.be/ptWMZppnekI"
+                            },
+                            {
+                                "title": "Nesting Properties of DFS",
+                                "url": "https://youtu.be/ww7sCJVhQvU"
+                            },
+                            {
+                                "title": "Topological Sort",
+                                "url": "https://youtu.be/j3ULge8Rm4I"
+                            }
+                        ],
+                        "wang-videos": null
                     },
                     "artifacts": {
-                        "discussion.pdf": {
-                            "path": "discussions/01-time_complexity/discussion.pdf"
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/13-dfs/slides-eldridge.pdf"
                         },
-                        "solution.pdf": {
-                            "path": "discussions/01-time_complexity/solution.pdf"
-                        }
-                    }
-                },
-                "02-best_worst_time": {
-                    "metadata": {
-                        "number": 2,
-                        "topic": "Best and Worst Time Complexity",
-                        "date": "2021-01-14",
-                        "recording": "https://ucsd.zoom.us/rec/share/0cVdiCJ3jpeAQWKG6bzpQxadyKj9faV07BfG89bDndiOVWT1TP5IVwWkMA24CcGg.f99E3W84xN4b1pjk?startTime=1610672427000"
-                    },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "discussions/02-best_worst_time/discussion.pdf"
+                        "slides-wang.pdf": {
+                            "path": "lectures/13-dfs/slides-wang.pdf"
                         },
-                        "solution.pdf": {
-                            "path": "discussions/02-best_worst_time/solution.pdf"
-                        }
-                    }
-                },
-                "03-recursion_sorting": {
-                    "metadata": {
-                        "number": 3,
-                        "topic": "Recurrence Relations and Sorting",
-                        "date": "2021-01-21",
-                        "recording": "https://ucsd.zoom.us/rec/share/TOb0EK23ndn9FlLalVZRUYyVdPz9RTp9xtFDk1xSKZGD4U5cJgKazy4Ks9-OkgnT.Rjd4IOIHtKKci0IL?startTime=1611277214000"
-                    },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "discussions/03-recursion_sorting/discussion.pdf"
-                        },
-                        "solution.pdf": {
-                            "path": "discussions/03-recursion_sorting/solution.pdf"
-                        }
-                    }
-                },
-                "04-quicksort_hashing": {
-                    "metadata": {
-                        "number": 4,
-                        "topic": "Quicksort, Quickselect, and BSTs",
-                        "date": "2021-01-28",
-                        "recording": "https://ucsd.zoom.us/rec/share/l-A4IqQZnPpcsfbqakBYwwKI5KEo2rjXwYxdqoDpps0F3dPJbwzB_crYyxtm3xAz.lA7CfFjK6mgMZd9-?startTime=1611882056000"
-                    },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "discussions/04-quicksort_hashing/discussion.pdf"
-                        },
-                        "solution.pdf": {
-                            "path": "discussions/04-quicksort_hashing/solution.pdf"
-                        }
-                    }
-                },
-                "06-graphs_bfs": {
-                    "metadata": {
-                        "number": 6,
-                        "topic": "Graphs and BFS",
-                        "date": "2021-02-11",
-                        "recording": "https://ucsd.zoom.us/rec/share/99hcLCppy2ES0KLC1C4GIcN7iaYyn4hq2r9MOviUJwkAJ_alw4C1QtOxtgEZdhqT.lAgZmKN04IGntkPn?startTime=1613091660000"
-                    },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "discussions/06-graphs_bfs/discussion.pdf"
-                        },
-                        "solution.pdf": {
-                            "path": "discussions/06-graphs_bfs/solution.pdf"
+                        "slides-wang.pptx": {
+                            "path": "lectures/13-dfs/slides-wang.pptx"
                         }
                     }
                 }
@@ -834,6 +759,128 @@
                         },
                         "template.zip": {
                             "path": "homeworks/06-graphs/template.zip"
+                        }
+                    }
+                }
+            }
+        },
+        "discussions": {
+            "schema": {
+                "required_artifacts": [
+                    "discussion.pdf",
+                    "solution.pdf"
+                ],
+                "optional_artifacts": [],
+                "metadata_schema": {
+                    "number": {
+                        "type": "integer"
+                    },
+                    "topic": {
+                        "type": "string"
+                    },
+                    "date": {
+                        "type": "smartdate"
+                    },
+                    "recording": {
+                        "type": "string",
+                        "required": false,
+                        "nullable": true
+                    }
+                },
+                "allow_unspecified_artifacts": false,
+                "is_ordered": false
+            },
+            "publications": {
+                "01-time_complexity": {
+                    "metadata": {
+                        "number": 1,
+                        "topic": "Time Complexity Analysis",
+                        "date": "2021-01-07",
+                        "recording": "https://ucsd.zoom.us/rec/share/LLsxIlkvf5uiqbeUJOKmP6NwcCkmXZi2ke3brfgF9kJaGbRf3qpPl5oi9cnHtvPu.c139ypuUEn3MAuyn?startTime=1610067675000"
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/01-time_complexity/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/01-time_complexity/solution.pdf"
+                        }
+                    }
+                },
+                "02-best_worst_time": {
+                    "metadata": {
+                        "number": 2,
+                        "topic": "Best and Worst Time Complexity",
+                        "date": "2021-01-14",
+                        "recording": "https://ucsd.zoom.us/rec/share/0cVdiCJ3jpeAQWKG6bzpQxadyKj9faV07BfG89bDndiOVWT1TP5IVwWkMA24CcGg.f99E3W84xN4b1pjk?startTime=1610672427000"
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/02-best_worst_time/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/02-best_worst_time/solution.pdf"
+                        }
+                    }
+                },
+                "03-recursion_sorting": {
+                    "metadata": {
+                        "number": 3,
+                        "topic": "Recurrence Relations and Sorting",
+                        "date": "2021-01-21",
+                        "recording": "https://ucsd.zoom.us/rec/share/TOb0EK23ndn9FlLalVZRUYyVdPz9RTp9xtFDk1xSKZGD4U5cJgKazy4Ks9-OkgnT.Rjd4IOIHtKKci0IL?startTime=1611277214000"
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/03-recursion_sorting/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/03-recursion_sorting/solution.pdf"
+                        }
+                    }
+                },
+                "04-quicksort_hashing": {
+                    "metadata": {
+                        "number": 4,
+                        "topic": "Quicksort, Quickselect, and BSTs",
+                        "date": "2021-01-28",
+                        "recording": "https://ucsd.zoom.us/rec/share/l-A4IqQZnPpcsfbqakBYwwKI5KEo2rjXwYxdqoDpps0F3dPJbwzB_crYyxtm3xAz.lA7CfFjK6mgMZd9-?startTime=1611882056000"
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/04-quicksort_hashing/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/04-quicksort_hashing/solution.pdf"
+                        }
+                    }
+                },
+                "06-graphs_bfs": {
+                    "metadata": {
+                        "number": 6,
+                        "topic": "Graphs and BFS",
+                        "date": "2021-02-11",
+                        "recording": "https://ucsd.zoom.us/rec/share/99hcLCppy2ES0KLC1C4GIcN7iaYyn4hq2r9MOviUJwkAJ_alw4C1QtOxtgEZdhqT.lAgZmKN04IGntkPn?startTime=1613091660000"
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/06-graphs_bfs/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/06-graphs_bfs/solution.pdf"
+                        }
+                    }
+                },
+                "07-dfs": {
+                    "metadata": {
+                        "number": 7,
+                        "topic": "DFS",
+                        "date": "2021-02-18",
+                        "recording": null
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/07-dfs/discussion.pdf"
                         }
                     }
                 }
