@@ -568,7 +568,7 @@
                                 "url": "https://youtu.be/j3ULge8Rm4I"
                             }
                         ],
-                        "wang-videos": null
+                        "wang-videos": "<ol class=\"schedule-lecture-parts\">\n    <li>\n        <a href=\"https://youtu.be/GHdX0ws7O1U\">\n            part A:  Nesting properties of DFS\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/ZhnOwdlUNjI\">\n            part B: DAG and topological sort\n        </a>\n    </li>\n</ol>\n"
                     },
                     "artifacts": {
                         "slides-eldridge.pdf": {
