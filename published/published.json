@@ -761,6 +761,22 @@
                             "path": "homeworks/06-graphs/template.zip"
                         }
                     }
+                },
+                "07-bfs": {
+                    "metadata": {
+                        "number": 7,
+                        "topic": "BFS and DFS",
+                        "due": "2021-02-24 23:59:00",
+                        "released": "2021-02-17 23:59:00"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/07-bfs/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/07-bfs/template.zip"
+                        }
+                    }
                 }
             }
         },
@@ -876,7 +892,7 @@
                         "number": 7,
                         "topic": "DFS",
                         "date": "2021-02-18",
-                        "recording": null
+                        "recording": "https://ucsd.zoom.us/rec/share/LtYDWjJ1O8zxFp2GL3oEIu2Ytnr2Qy3aKWa4Y1QBOXd7yuYx7ufapCAn9zBQAlOi.2kIatBFrSI5jDDfB?startTime=1613696407000"
                     },
                     "artifacts": {
                         "discussion.pdf": {
