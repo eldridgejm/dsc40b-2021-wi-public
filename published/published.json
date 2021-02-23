@@ -780,6 +780,17 @@
                             "path": "lectures/13-dfs/slides-wang.pptx"
                         }
                     }
+                },
+                "14-bellman_ford": {
+                    "metadata": {
+                        "date": "2021-02-23",
+                        "number": 14,
+                        "topic": "Bellman-Ford",
+                        "reading": "Section 1.5",
+                        "eldridge-videos": [],
+                        "wang-videos": null
+                    },
+                    "artifacts": {}
                 }
             }
         },
