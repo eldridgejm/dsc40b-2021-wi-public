@@ -923,6 +923,19 @@
                             "path": "discussions/07-dfs/solution.pdf"
                         }
                     }
+                },
+                "08-bellman_ford": {
+                    "metadata": {
+                        "number": 8,
+                        "topic": "Graphs, Bellman-Ford",
+                        "date": "2021-02-24",
+                        "recording": null
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/08-bellman_ford/discussion.pdf"
+                        }
+                    }
                 }
             }
         },
