@@ -790,7 +790,14 @@
                         "eldridge-videos": [],
                         "wang-videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides-wang.pdf": {
+                            "path": "lectures/14-bellman_ford/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/14-bellman_ford/slides-wang.pptx"
+                        }
+                    }
                 }
             }
         },
