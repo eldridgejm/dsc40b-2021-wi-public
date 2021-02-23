@@ -786,8 +786,21 @@
                         "date": "2021-02-23",
                         "number": 14,
                         "topic": "Bellman-Ford",
-                        "reading": "Section 1.5",
-                        "eldridge-videos": [],
+                        "reading": null,
+                        "eldridge-videos": [
+                            {
+                                "title": "Shortest Paths in Weighted Graphs",
+                                "url": "https://youtu.be/ttx3i6ZfIxQ"
+                            },
+                            {
+                                "title": "The Bellman-Ford Algorithm",
+                                "url": "https://youtu.be/kCRndTMnej8"
+                            },
+                            {
+                                "title": "Early Stopping and Negative Cycles",
+                                "url": "https://youtu.be/frG0CzfHVSc"
+                            }
+                        ],
                         "wang-videos": null
                     },
                     "artifacts": {
