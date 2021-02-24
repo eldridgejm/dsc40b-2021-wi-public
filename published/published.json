@@ -801,7 +801,7 @@
                                 "url": "https://youtu.be/frG0CzfHVSc"
                             }
                         ],
-                        "wang-videos": null
+                        "wang-videos": "<ol class=\"schedule-lecture-parts\">\n    <li>\n        <a href=\"https://youtu.be/td-V3q_asTQ\">\n            part A:  Weighted graphs, shortest paths and properties\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/6Dkhsh71sjA\">\n            part B: Does BFS algorithm work for weighted graphs? \n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/PM18tSxIsPs\">\n            part C:  Key operation for shortest paths: update(edge)\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/HE-KqXdkltI\">\n            part D: Bellman-Ford algorithm\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/qdJp7_pHyzE\">\n            part E:  Early stopping and negative-cycle detection in Bellman-Ford algorithm\n        </a>\n    </li>            \n</ol>\n"
                     },
                     "artifacts": {
                         "slides-wang.pdf": {
@@ -809,6 +809,27 @@
                         },
                         "slides-wang.pptx": {
                             "path": "lectures/14-bellman_ford/slides-wang.pptx"
+                        }
+                    }
+                },
+                "15-dijkstra": {
+                    "metadata": {
+                        "date": "2021-02-25",
+                        "number": 15,
+                        "topic": "Dijkstra's Algorithm",
+                        "reading": null,
+                        "eldridge-videos": [],
+                        "wang-videos": null
+                    },
+                    "artifacts": {
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/15-dijkstra/slides-eldridge.pdf"
+                        },
+                        "slides-wang.pdf": {
+                            "path": "lectures/15-dijkstra/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/15-dijkstra/slides-wang.pptx"
                         }
                     }
                 }
