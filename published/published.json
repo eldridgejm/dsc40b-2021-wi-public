@@ -971,6 +971,9 @@
                     "artifacts": {
                         "discussion.pdf": {
                             "path": "discussions/08-bellman_ford/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/08-bellman_ford/solution.pdf"
                         }
                     }
                 }
