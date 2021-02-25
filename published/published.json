@@ -821,7 +821,16 @@
                         "number": 15,
                         "topic": "Dijkstra's Algorithm",
                         "reading": null,
-                        "eldridge-videos": [],
+                        "eldridge-videos": [
+                            {
+                                "title": "Dijkstra's Algorithm",
+                                "url": "https://youtu.be/pYyZEKonEDU"
+                            },
+                            {
+                                "title": "Analysis",
+                                "url": "https://youtu.be/Jif3r_-4GK4"
+                            }
+                        ],
                         "wang-videos": null
                     },
                     "artifacts": {
