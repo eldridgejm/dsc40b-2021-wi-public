@@ -196,6 +196,22 @@
                             "path": "homeworks/07-bfs/template.zip"
                         }
                     }
+                },
+                "08-spd": {
+                    "metadata": {
+                        "number": 8,
+                        "topic": "Shortest Paths in Weighted Graphs",
+                        "due": "2021-03-03 23:59:00",
+                        "released": "2021-02-24 23:59:00"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/08-spd/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/08-spd/template.zip"
+                        }
+                    }
                 }
             }
         },
