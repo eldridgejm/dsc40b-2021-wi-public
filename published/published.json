@@ -194,6 +194,9 @@
                         },
                         "template.zip": {
                             "path": "homeworks/07-bfs/template.zip"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/07-bfs/solution.pdf"
                         }
                     }
                 },
