@@ -831,7 +831,7 @@
                                 "url": "https://youtu.be/Jif3r_-4GK4"
                             }
                         ],
-                        "wang-videos": null
+                        "wang-videos": "<ol class=\"schedule-lecture-parts\">\n    <li>\n        <a href=\"https://youtu.be/Ozv5vzjowY8\">\n            part A:  Dijkstra algorithm for shortest path in positively weighted graphs\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/vVvpizJYrq4\">\n            part B: Correctness of Dijkstra algorithm \n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/zLx6Z8DiaHE\">\n            part C:  Efficient implementation of Dijkstra algorithm\n        </a>\n    </li>       \n</ol>\n"
                     },
                     "artifacts": {
                         "slides-eldridge.pdf": {
