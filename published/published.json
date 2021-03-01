@@ -888,7 +888,11 @@
                         "eldridge-videos": [],
                         "wang-videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/16-prim/slides-eldridge.pdf"
+                        }
+                    }
                 }
             }
         },
