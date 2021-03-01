@@ -38,6 +38,21 @@
                             "path": "supplementary/exam_reviews/midterm_01/solution.pdf"
                         }
                     }
+                },
+                "midterm_02": {
+                    "metadata": {
+                        "exam": "Midterm 02",
+                        "date": "2021-03-02",
+                        "recording": "https://ucsd.zoom.us/rec/share/0kjBT8l-pdw1LoFH5AtsWzoxjcrhQNwBn4vwv-HOhmiqSMiWAydXRgO07ESvMnaL.27u6KSIfurBa6GTi?startTime=1612314270000"
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "supplementary/exam_reviews/midterm_02/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "supplementary/exam_reviews/midterm_02/solution.pdf"
+                        }
+                    }
                 }
             }
         },
@@ -863,6 +878,17 @@
                             "path": "lectures/15-dijkstra/slides-wang.pptx"
                         }
                     }
+                },
+                "16-prim": {
+                    "metadata": {
+                        "date": "2021-03-02",
+                        "number": 16,
+                        "topic": "Asymptotic Time Complexity, pt. II",
+                        "reading": "Section 1.5",
+                        "eldridge-videos": [],
+                        "wang-videos": null
+                    },
+                    "artifacts": {}
                 }
             }
         },
