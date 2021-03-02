@@ -883,9 +883,26 @@
                     "metadata": {
                         "date": "2021-03-02",
                         "number": 16,
-                        "topic": "Asymptotic Time Complexity, pt. II",
-                        "reading": "Section 1.5",
-                        "eldridge-videos": [],
+                        "topic": "Minimum Spanning Trees and Prim's Algorithm",
+                        "reading": null,
+                        "eldridge-videos": [
+                            {
+                                "title": "Minimum Spanning Trees",
+                                "url": "https://youtu.be/gND4BRobPTw"
+                            },
+                            {
+                                "title": "Prim's Algorithm",
+                                "url": "https://youtu.be/uxkmAcwEzZI"
+                            },
+                            {
+                                "title": "Analysis of Time Complexity",
+                                "url": "https://youtu.be/xjFlRPnqb3s"
+                            },
+                            {
+                                "title": "(Optional) Proof of Correctness",
+                                "url": "https://youtu.be/zBEWXua4wl0"
+                            }
+                        ],
                         "wang-videos": null
                     },
                     "artifacts": {
