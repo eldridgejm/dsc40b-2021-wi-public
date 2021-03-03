@@ -903,7 +903,7 @@
                                 "url": "https://youtu.be/zBEWXua4wl0"
                             }
                         ],
-                        "wang-videos": null
+                        "wang-videos": "<ol class=\"schedule-lecture-parts\">\n    <li>\n        <a href=\"https://youtu.be/U0zU6O3nOaQ\">\n            part A:  Trees and minimum spanning trees\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/cnExSNgzCcs\">\n            part B: Properties of MST, and Prim's algorithm \n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/BXJp37QZ62I\">\n            part C:  Implementation of Prim's algorithm\n        </a>\n    </li>       \n</ol>\n"
                     },
                     "artifacts": {
                         "slides-eldridge.pdf": {
