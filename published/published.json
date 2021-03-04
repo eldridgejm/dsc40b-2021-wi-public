@@ -228,6 +228,9 @@
                         },
                         "template.zip": {
                             "path": "homeworks/08-spd/template.zip"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/08-spd/solution.pdf"
                         }
                     }
                 }
