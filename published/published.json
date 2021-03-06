@@ -1,5 +1,241 @@
 {
     "collections": {
+        "supplementary/exam_reviews": {
+            "schema": {
+                "required_artifacts": [
+                    "discussion.pdf",
+                    "solution.pdf"
+                ],
+                "optional_artifacts": [],
+                "metadata_schema": {
+                    "exam": {
+                        "type": "string"
+                    },
+                    "date": {
+                        "type": "smartdate"
+                    },
+                    "recording": {
+                        "type": "string",
+                        "required": false,
+                        "nullable": true
+                    }
+                },
+                "allow_unspecified_artifacts": false,
+                "is_ordered": false
+            },
+            "publications": {
+                "midterm_01": {
+                    "metadata": {
+                        "exam": "Midterm 01",
+                        "date": "2021-01-28",
+                        "recording": "https://ucsd.zoom.us/rec/share/0kjBT8l-pdw1LoFH5AtsWzoxjcrhQNwBn4vwv-HOhmiqSMiWAydXRgO07ESvMnaL.27u6KSIfurBa6GTi?startTime=1612314270000"
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "supplementary/exam_reviews/midterm_01/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "supplementary/exam_reviews/midterm_01/solution.pdf"
+                        }
+                    }
+                },
+                "midterm_02": {
+                    "metadata": {
+                        "exam": "Midterm 02",
+                        "date": "2021-03-02",
+                        "recording": "https://ucsd.zoom.us/rec/share/uSxUuB0D-mP6dfKIvgTepTtzDPB7V5qcEuj2e1RbcH5Zrl3yZlnl0hTZzNbOLTIl.HNovUj23TM-tbC_4?startTime=1614733410000"
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "supplementary/exam_reviews/midterm_02/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "supplementary/exam_reviews/midterm_02/solution.pdf"
+                        }
+                    }
+                }
+            }
+        },
+        "homeworks": {
+            "schema": {
+                "required_artifacts": [
+                    "homework.pdf",
+                    "solution.pdf",
+                    "template.zip"
+                ],
+                "optional_artifacts": [],
+                "metadata_schema": {
+                    "number": {
+                        "type": "integer"
+                    },
+                    "topic": {
+                        "type": "string"
+                    },
+                    "released": {
+                        "type": "smartdatetime"
+                    },
+                    "due": {
+                        "type": "smartdatetime"
+                    }
+                },
+                "allow_unspecified_artifacts": false,
+                "is_ordered": true
+            },
+            "publications": {
+                "01-time_complexity": {
+                    "metadata": {
+                        "number": 1,
+                        "topic": "Time Complexity Analysis",
+                        "due": "2021-01-12 23:59:00",
+                        "released": "2021-01-05 00:00:00"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/01-time_complexity/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/01-time_complexity/template.zip"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/01-time_complexity/solution.pdf"
+                        }
+                    }
+                },
+                "02-asymptotic": {
+                    "metadata": {
+                        "number": 2,
+                        "topic": "Time Complexity Analysis",
+                        "due": "2021-01-19 23:59:00",
+                        "released": "2021-01-12 00:00:00"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/02-asymptotic/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/02-asymptotic/template.zip"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/02-asymptotic/solution.pdf"
+                        }
+                    }
+                },
+                "03-recurrences-sorting": {
+                    "metadata": {
+                        "number": 3,
+                        "topic": "Binary Search, Recurrences, Sorting",
+                        "due": "2021-01-26 23:59:00",
+                        "released": "2021-01-19 23:59:00"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/03-recurrences-sorting/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/03-recurrences-sorting/template.zip"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/03-recurrences-sorting/solution.pdf"
+                        }
+                    }
+                },
+                "04-quickselect-bst": {
+                    "metadata": {
+                        "number": 4,
+                        "topic": "Quickselect and BSTs",
+                        "due": "2021-02-02 23:59:00",
+                        "released": "2021-01-26 23:59:00"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/04-quickselect-bst/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/04-quickselect-bst/template.zip"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/04-quickselect-bst/solution.pdf"
+                        }
+                    }
+                },
+                "05-hashing": {
+                    "metadata": {
+                        "number": 5,
+                        "topic": "Hashing",
+                        "due": "2021-02-10 23:59:00",
+                        "released": "2021-02-03 23:59:00"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/05-hashing/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/05-hashing/template.zip"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/05-hashing/solution.pdf"
+                        }
+                    }
+                },
+                "06-graphs": {
+                    "metadata": {
+                        "number": 6,
+                        "topic": "Graph Theory and BFS",
+                        "due": "2021-02-17 23:59:00",
+                        "released": "2021-02-10 23:59:00"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/06-graphs/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/06-graphs/template.zip"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/06-graphs/solution.pdf"
+                        }
+                    }
+                },
+                "07-bfs": {
+                    "metadata": {
+                        "number": 7,
+                        "topic": "BFS and DFS",
+                        "due": "2021-02-24 23:59:00",
+                        "released": "2021-02-17 23:59:00"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/07-bfs/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/07-bfs/template.zip"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/07-bfs/solution.pdf"
+                        }
+                    }
+                },
+                "08-spd": {
+                    "metadata": {
+                        "number": 8,
+                        "topic": "Shortest Paths in Weighted Graphs",
+                        "due": "2021-03-03 23:59:00",
+                        "released": "2021-02-24 23:59:00"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/08-spd/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/08-spd/template.zip"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/08-spd/solution.pdf"
+                        }
+                    }
+                }
+            }
+        },
         "lectures": {
             "schema": {
                 "required_artifacts": [
@@ -833,242 +1069,6 @@
                         },
                         "solution.pdf": {
                             "path": "discussions/08-bellman_ford/solution.pdf"
-                        }
-                    }
-                }
-            }
-        },
-        "homeworks": {
-            "schema": {
-                "required_artifacts": [
-                    "homework.pdf",
-                    "solution.pdf",
-                    "template.zip"
-                ],
-                "optional_artifacts": [],
-                "metadata_schema": {
-                    "number": {
-                        "type": "integer"
-                    },
-                    "topic": {
-                        "type": "string"
-                    },
-                    "released": {
-                        "type": "smartdatetime"
-                    },
-                    "due": {
-                        "type": "smartdatetime"
-                    }
-                },
-                "allow_unspecified_artifacts": false,
-                "is_ordered": true
-            },
-            "publications": {
-                "01-time_complexity": {
-                    "metadata": {
-                        "number": 1,
-                        "topic": "Time Complexity Analysis",
-                        "due": "2021-01-12 23:59:00",
-                        "released": "2021-01-05 00:00:00"
-                    },
-                    "artifacts": {
-                        "homework.pdf": {
-                            "path": "homeworks/01-time_complexity/homework.pdf"
-                        },
-                        "template.zip": {
-                            "path": "homeworks/01-time_complexity/template.zip"
-                        },
-                        "solution.pdf": {
-                            "path": "homeworks/01-time_complexity/solution.pdf"
-                        }
-                    }
-                },
-                "02-asymptotic": {
-                    "metadata": {
-                        "number": 2,
-                        "topic": "Time Complexity Analysis",
-                        "due": "2021-01-19 23:59:00",
-                        "released": "2021-01-12 00:00:00"
-                    },
-                    "artifacts": {
-                        "homework.pdf": {
-                            "path": "homeworks/02-asymptotic/homework.pdf"
-                        },
-                        "template.zip": {
-                            "path": "homeworks/02-asymptotic/template.zip"
-                        },
-                        "solution.pdf": {
-                            "path": "homeworks/02-asymptotic/solution.pdf"
-                        }
-                    }
-                },
-                "03-recurrences-sorting": {
-                    "metadata": {
-                        "number": 3,
-                        "topic": "Binary Search, Recurrences, Sorting",
-                        "due": "2021-01-26 23:59:00",
-                        "released": "2021-01-19 23:59:00"
-                    },
-                    "artifacts": {
-                        "homework.pdf": {
-                            "path": "homeworks/03-recurrences-sorting/homework.pdf"
-                        },
-                        "template.zip": {
-                            "path": "homeworks/03-recurrences-sorting/template.zip"
-                        },
-                        "solution.pdf": {
-                            "path": "homeworks/03-recurrences-sorting/solution.pdf"
-                        }
-                    }
-                },
-                "04-quickselect-bst": {
-                    "metadata": {
-                        "number": 4,
-                        "topic": "Quickselect and BSTs",
-                        "due": "2021-02-02 23:59:00",
-                        "released": "2021-01-26 23:59:00"
-                    },
-                    "artifacts": {
-                        "homework.pdf": {
-                            "path": "homeworks/04-quickselect-bst/homework.pdf"
-                        },
-                        "template.zip": {
-                            "path": "homeworks/04-quickselect-bst/template.zip"
-                        },
-                        "solution.pdf": {
-                            "path": "homeworks/04-quickselect-bst/solution.pdf"
-                        }
-                    }
-                },
-                "05-hashing": {
-                    "metadata": {
-                        "number": 5,
-                        "topic": "Hashing",
-                        "due": "2021-02-10 23:59:00",
-                        "released": "2021-02-03 23:59:00"
-                    },
-                    "artifacts": {
-                        "homework.pdf": {
-                            "path": "homeworks/05-hashing/homework.pdf"
-                        },
-                        "template.zip": {
-                            "path": "homeworks/05-hashing/template.zip"
-                        },
-                        "solution.pdf": {
-                            "path": "homeworks/05-hashing/solution.pdf"
-                        }
-                    }
-                },
-                "06-graphs": {
-                    "metadata": {
-                        "number": 6,
-                        "topic": "Graph Theory and BFS",
-                        "due": "2021-02-17 23:59:00",
-                        "released": "2021-02-10 23:59:00"
-                    },
-                    "artifacts": {
-                        "homework.pdf": {
-                            "path": "homeworks/06-graphs/homework.pdf"
-                        },
-                        "template.zip": {
-                            "path": "homeworks/06-graphs/template.zip"
-                        },
-                        "solution.pdf": {
-                            "path": "homeworks/06-graphs/solution.pdf"
-                        }
-                    }
-                },
-                "07-bfs": {
-                    "metadata": {
-                        "number": 7,
-                        "topic": "BFS and DFS",
-                        "due": "2021-02-24 23:59:00",
-                        "released": "2021-02-17 23:59:00"
-                    },
-                    "artifacts": {
-                        "homework.pdf": {
-                            "path": "homeworks/07-bfs/homework.pdf"
-                        },
-                        "template.zip": {
-                            "path": "homeworks/07-bfs/template.zip"
-                        },
-                        "solution.pdf": {
-                            "path": "homeworks/07-bfs/solution.pdf"
-                        }
-                    }
-                },
-                "08-spd": {
-                    "metadata": {
-                        "number": 8,
-                        "topic": "Shortest Paths in Weighted Graphs",
-                        "due": "2021-03-03 23:59:00",
-                        "released": "2021-02-24 23:59:00"
-                    },
-                    "artifacts": {
-                        "homework.pdf": {
-                            "path": "homeworks/08-spd/homework.pdf"
-                        },
-                        "template.zip": {
-                            "path": "homeworks/08-spd/template.zip"
-                        },
-                        "solution.pdf": {
-                            "path": "homeworks/08-spd/solution.pdf"
-                        }
-                    }
-                }
-            }
-        },
-        "supplementary/exam_reviews": {
-            "schema": {
-                "required_artifacts": [
-                    "discussion.pdf",
-                    "solution.pdf"
-                ],
-                "optional_artifacts": [],
-                "metadata_schema": {
-                    "exam": {
-                        "type": "string"
-                    },
-                    "date": {
-                        "type": "smartdate"
-                    },
-                    "recording": {
-                        "type": "string",
-                        "required": false,
-                        "nullable": true
-                    }
-                },
-                "allow_unspecified_artifacts": false,
-                "is_ordered": false
-            },
-            "publications": {
-                "midterm_01": {
-                    "metadata": {
-                        "exam": "Midterm 01",
-                        "date": "2021-01-28",
-                        "recording": "https://ucsd.zoom.us/rec/share/0kjBT8l-pdw1LoFH5AtsWzoxjcrhQNwBn4vwv-HOhmiqSMiWAydXRgO07ESvMnaL.27u6KSIfurBa6GTi?startTime=1612314270000"
-                    },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "supplementary/exam_reviews/midterm_01/discussion.pdf"
-                        },
-                        "solution.pdf": {
-                            "path": "supplementary/exam_reviews/midterm_01/solution.pdf"
-                        }
-                    }
-                },
-                "midterm_02": {
-                    "metadata": {
-                        "exam": "Midterm 02",
-                        "date": "2021-03-02",
-                        "recording": "https://ucsd.zoom.us/rec/share/uSxUuB0D-mP6dfKIvgTepTtzDPB7V5qcEuj2e1RbcH5Zrl3yZlnl0hTZzNbOLTIl.HNovUj23TM-tbC_4?startTime=1614733410000"
-                    },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "supplementary/exam_reviews/midterm_02/discussion.pdf"
-                        },
-                        "solution.pdf": {
-                            "path": "supplementary/exam_reviews/midterm_02/solution.pdf"
                         }
                     }
                 }
