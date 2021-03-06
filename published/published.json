@@ -1,61 +1,5 @@
 {
     "collections": {
-        "supplementary/exam_reviews": {
-            "schema": {
-                "required_artifacts": [
-                    "discussion.pdf",
-                    "solution.pdf"
-                ],
-                "optional_artifacts": [],
-                "metadata_schema": {
-                    "exam": {
-                        "type": "string"
-                    },
-                    "date": {
-                        "type": "smartdate"
-                    },
-                    "recording": {
-                        "type": "string",
-                        "required": false,
-                        "nullable": true
-                    }
-                },
-                "allow_unspecified_artifacts": false,
-                "is_ordered": false
-            },
-            "publications": {
-                "midterm_01": {
-                    "metadata": {
-                        "exam": "Midterm 01",
-                        "date": "2021-01-28",
-                        "recording": "https://ucsd.zoom.us/rec/share/0kjBT8l-pdw1LoFH5AtsWzoxjcrhQNwBn4vwv-HOhmiqSMiWAydXRgO07ESvMnaL.27u6KSIfurBa6GTi?startTime=1612314270000"
-                    },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "supplementary/exam_reviews/midterm_01/discussion.pdf"
-                        },
-                        "solution.pdf": {
-                            "path": "supplementary/exam_reviews/midterm_01/solution.pdf"
-                        }
-                    }
-                },
-                "midterm_02": {
-                    "metadata": {
-                        "exam": "Midterm 02",
-                        "date": "2021-03-02",
-                        "recording": "https://ucsd.zoom.us/rec/share/uSxUuB0D-mP6dfKIvgTepTtzDPB7V5qcEuj2e1RbcH5Zrl3yZlnl0hTZzNbOLTIl.HNovUj23TM-tbC_4?startTime=1614733410000"
-                    },
-                    "artifacts": {
-                        "discussion.pdf": {
-                            "path": "supplementary/exam_reviews/midterm_02/discussion.pdf"
-                        },
-                        "solution.pdf": {
-                            "path": "supplementary/exam_reviews/midterm_02/solution.pdf"
-                        }
-                    }
-                }
-            }
-        },
         "homeworks": {
             "schema": {
                 "required_artifacts": [
@@ -1069,6 +1013,62 @@
                         },
                         "solution.pdf": {
                             "path": "discussions/08-bellman_ford/solution.pdf"
+                        }
+                    }
+                }
+            }
+        },
+        "supplementary/exam_reviews": {
+            "schema": {
+                "required_artifacts": [
+                    "discussion.pdf",
+                    "solution.pdf"
+                ],
+                "optional_artifacts": [],
+                "metadata_schema": {
+                    "exam": {
+                        "type": "string"
+                    },
+                    "date": {
+                        "type": "smartdate"
+                    },
+                    "recording": {
+                        "type": "string",
+                        "required": false,
+                        "nullable": true
+                    }
+                },
+                "allow_unspecified_artifacts": false,
+                "is_ordered": false
+            },
+            "publications": {
+                "midterm_01": {
+                    "metadata": {
+                        "exam": "Midterm 01",
+                        "date": "2021-01-28",
+                        "recording": "https://ucsd.zoom.us/rec/share/0kjBT8l-pdw1LoFH5AtsWzoxjcrhQNwBn4vwv-HOhmiqSMiWAydXRgO07ESvMnaL.27u6KSIfurBa6GTi?startTime=1612314270000"
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "supplementary/exam_reviews/midterm_01/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "supplementary/exam_reviews/midterm_01/solution.pdf"
+                        }
+                    }
+                },
+                "midterm_02": {
+                    "metadata": {
+                        "exam": "Midterm 02",
+                        "date": "2021-03-02",
+                        "recording": "https://ucsd.zoom.us/rec/share/uSxUuB0D-mP6dfKIvgTepTtzDPB7V5qcEuj2e1RbcH5Zrl3yZlnl0hTZzNbOLTIl.HNovUj23TM-tbC_4?startTime=1614733410000"
+                    },
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "supplementary/exam_reviews/midterm_02/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "supplementary/exam_reviews/midterm_02/solution.pdf"
                         }
                     }
                 }
