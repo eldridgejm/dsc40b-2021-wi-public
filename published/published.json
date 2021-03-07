@@ -863,17 +863,6 @@
                             "path": "lectures/16-prim/slides-wang.pptx"
                         }
                     }
-                },
-                "17-kruskal": {
-                    "metadata": {
-                        "date": "2021-03-04",
-                        "number": 17,
-                        "topic": "Asymptotic Time Complexity, pt. II",
-                        "reading": "Section 1.5",
-                        "eldridge-videos": [],
-                        "wang-videos": null
-                    },
-                    "artifacts": {}
                 }
             }
         },
