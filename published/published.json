@@ -876,6 +876,12 @@
                     "artifacts": {
                         "slides-eldridge.pdf": {
                             "path": "lectures/17-kruskal/slides-eldridge.pdf"
+                        },
+                        "slides-wang.pdf": {
+                            "path": "lectures/17-kruskal/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/17-kruskal/slides-wang.pptx"
                         }
                     }
                 }
