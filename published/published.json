@@ -884,7 +884,7 @@
                                 "url": "https://youtu.be/3wMUZnKliSY"
                             }
                         ],
-                        "wang-videos": null
+                        "wang-videos": "<ol class=\"schedule-lecture-parts\">\n    <li>\n        <a href=\"https://youtu.be/l89imFbsE9w\">\n            part A:  Idea for Kruskal's algorithm\n        </a>\n    </li>\n    <li>\n        <a href=\"https://youtu.be/au2ligAHwiY\">\n            part B: MST and clustering\n        </a>\n    </li>\n    <li>\n        <a href=\"https://https://youtu.be/54KjSW7zNsI\">\n            (Optional) part C:  Hierarchical clustering and single-linkage (not required)\n        </a>\n    </li>       \n</ol>\n"
                     },
                     "artifacts": {
                         "slides-eldridge.pdf": {
