@@ -868,12 +868,16 @@
                     "metadata": {
                         "date": "2021-03-09",
                         "number": 17,
-                        "topic": "Asymptotic Time Complexity, pt. II",
-                        "reading": "Section 1.5",
+                        "topic": "Kruskal's Algorithm",
+                        "reading": "Section 3.5",
                         "eldridge-videos": [],
                         "wang-videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/17-kruskal/slides-eldridge.pdf"
+                        }
+                    }
                 }
             }
         },
