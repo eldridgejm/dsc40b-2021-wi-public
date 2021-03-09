@@ -870,7 +870,20 @@
                         "number": 17,
                         "topic": "Kruskal's Algorithm",
                         "reading": "Section 3.5",
-                        "eldridge-videos": [],
+                        "eldridge-videos": [
+                            {
+                                "title": "Kruskal's Algorithm",
+                                "url": "https://youtu.be/CwYh8atBypg"
+                            },
+                            {
+                                "title": "Kruskal vs. Prim",
+                                "url": "https://youtu.be/WFSsLJH5dMM"
+                            },
+                            {
+                                "title": "Clustering with MSTs",
+                                "url": "https://youtu.be/3wMUZnKliSY"
+                            }
+                        ],
                         "wang-videos": null
                     },
                     "artifacts": {
