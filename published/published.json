@@ -1038,6 +1038,15 @@
                             "path": "discussions/08-bellman_ford/solution.pdf"
                         }
                     }
+                },
+                "10-prim_kruskal": {
+                    "metadata": {
+                        "number": 10,
+                        "topic": "Prim, Kruskal, MST",
+                        "date": "2021-03-11",
+                        "recording": null
+                    },
+                    "artifacts": {}
                 }
             }
         },
