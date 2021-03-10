@@ -897,6 +897,54 @@
                             "path": "lectures/17-kruskal/slides-wang.pptx"
                         }
                     }
+                },
+                "18-np_completeness": {
+                    "metadata": {
+                        "date": "2021-03-11",
+                        "number": 18,
+                        "topic": "Complexity Theory",
+                        "reading": null,
+                        "eldridge-videos": [
+                            {
+                                "title": "Complexity Theory",
+                                "url": "https://youtu.be/EGztdrEihSs"
+                            },
+                            {
+                                "title": "Eulerian and Hamiltonian Cycles",
+                                "url": "https://youtu.be/XsjuRZG8fqE"
+                            },
+                            {
+                                "title": "Short and Long Paths",
+                                "url": "https://youtu.be/EBjs7qBcI9A"
+                            },
+                            {
+                                "title": "Reductions",
+                                "url": "https://youtu.be/IcouVkI85s8"
+                            },
+                            {
+                                "title": "P = NP?",
+                                "url": "https://youtu.be/9exqHOqJFMw"
+                            },
+                            {
+                                "title": "NP-Complete Problems",
+                                "url": "https://youtu.be/KzC5MciZF8g"
+                            },
+                            {
+                                "title": "NP-Hard Problems",
+                                "url": "https://youtu.be/9pUZklUx8Kc"
+                            },
+                            {
+                                "title": "The Halting Problem",
+                                "url": "https://youtu.be/IeL9r4sPnGI"
+                            }
+                        ],
+                        "wang-videos": null
+                    },
+                    "artifacts": {
+                        "slides-eldridge.pdf": {
+                            "path": "lectures/18-np_completeness/slides-eldridge.pdf"
+                        }
+                    }
                 }
             }
         },
@@ -1046,7 +1094,11 @@
                         "date": "2021-03-11",
                         "recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/10-prim_kruskal/discussion.pdf"
+                        }
+                    }
                 }
             }
         },
