@@ -177,6 +177,22 @@
                             "path": "homeworks/08-spd/solution.pdf"
                         }
                     }
+                },
+                "09-mst-complexity": {
+                    "metadata": {
+                        "number": 9,
+                        "topic": "MSTs and Complexity Theory",
+                        "due": "2021-03-18 23:59:00",
+                        "released": "2021-03-09 23:59:00"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/09-mst-complexity/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/09-mst-complexity/template.zip"
+                        }
+                    }
                 }
             }
         },
